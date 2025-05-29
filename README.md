@@ -1,4 +1,4 @@
-## Subset Sum 3 CC:
+### Subset Sum 3 CC:
 
 
 This C++ program checks, for each test case, whether there exists a **non-empty subsequence** of the input array whose sum is divisible by 3. Let's walk through the code and its logic in detail.
